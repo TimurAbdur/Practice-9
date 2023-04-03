@@ -1,0 +1,11 @@
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\bin\Debug\Калькулятор строк.exe.config
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\bin\Debug\Калькулятор строк.exe
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\bin\Debug\Калькулятор строк.pdb
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.csproj.AssemblyReference.cache
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор_строк.Form1.resources
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор_строк.Properties.Resources.resources
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.csproj.GenerateResource.cache
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.csproj.CoreCompileInputs.cache
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.exe
+C:\Users\Abdurakhamon\Documents\Practic\Калькулятор строк\obj\Debug\Калькулятор строк.pdb
